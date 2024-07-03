@@ -5,6 +5,7 @@ on:
   push:
     branches:
     - main
+    - book
     
 # Sets permissions of the GITHUB_TOKEN to allow deployment to Pages
 permissions:
