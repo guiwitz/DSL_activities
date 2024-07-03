@@ -1,3 +1,3 @@
 # Microfilm
 
-A library to create figures and animations of 2D microscopy images.
+A library to create figures of 2D microscopy images.
